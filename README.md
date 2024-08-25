@@ -7,6 +7,12 @@
 | Seeing Theory | Introduce basic topics of probability with interactive visualizations| [Link](https://seeing-theory.brown.edu/)| There is also a book linked in the website|
 | R Psychologist | Provides interactive visualization to introductory topics in Stats | [Link](https://rpsychologist.com/)|---|
 
+# Online books
+
+| Title and Link            | Description          | Link                              | Additional Notes       |
+|------------------|----------------------|-----------------------------------|-------------------------|
+| Dive into Deep Learning | Covers introductory topics in deep learning | [Link](https://d2l.ai/) | Does not cover SOTA approaches, good for beginners only |
+
 
 
 
