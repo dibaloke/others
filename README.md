@@ -12,6 +12,8 @@
 | Title and Link            | Description          | Link                              | Additional Notes       |
 |------------------|----------------------|-----------------------------------|-------------------------|
 | Dive into Deep Learning | Covers introductory topics in deep learning | [Link](https://d2l.ai/) | Does not cover SOTA approaches, good for beginners only |
+| Bayes Rules! An Introduction to Applied Bayesian Modeling | Advanced topics in Bayesian Stufss | [Link](https://www.bayesrulesbook.com/) | ----|
+| Deep Learning: Foundations and Concepts | Covers beginner and intermediate topics in DL| [Link](https://issuu.com/cmb321/docs/deep_learning_ebook)| Math-Heavy which is nice for advanced users|
 
 
 
