@@ -6,7 +6,7 @@
 |The Distribution Zoo | Interactively visualize probability distributions | [Link](https://ben18785.shinyapps.io/distribution-zoo/)|---|
 | Seeing Theory | Introduce basic topics of probability with interactive visualizations| [Link](https://seeing-theory.brown.edu/)| There is also a book linked in the website|
 | R Psychologist | Provides interactive visualization to introductory topics in Stats | [Link](https://rpsychologist.com/)|---|
-|
+
 
 
 
