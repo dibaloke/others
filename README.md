@@ -16,6 +16,11 @@
 | Deep Learning: Foundations and Concepts | Covers beginner and intermediate topics in DL| [Link](https://issuu.com/cmb321/docs/deep_learning_ebook)| Math-Heavy which is nice for advanced users|
 | Understanding Deep Learning | Nice book for beginners and intermediate people in DL | [Link](https://udlbook.github.io/udlbook/) | --- |
 
+# Github Repos
+
+| Title and Link            | Description          | Link                              | Additional Notes       |
+|------------------|----------------------|-----------------------------------|-------------------------|
+| Hands-On-Large-Language-Models | Code examples from the book Hands-On Large Language Models  | [Link](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) |--- |
 
 
 
